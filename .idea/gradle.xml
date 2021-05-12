@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ADVERTICE" />
+            <option value="$PROJECT_DIR$/BROADCAST" />
+            <option value="$PROJECT_DIR$/BROADCASTRECEICER" />
+            <option value="$PROJECT_DIR$/Database Dictionary" />
+            <option value="$PROJECT_DIR$/FRAGMENTTEST" />
+            <option value="$PROJECT_DIR$/NOTIFYTEST" />
+            <option value="$PROJECT_DIR$/PROGRESSTEST" />
+            <option value="$PROJECT_DIR$/RANDOWNUMBER" />
+            <option value="$PROJECT_DIR$/SEARCHAVAR" />
+            <option value="$PROJECT_DIR$/SENSORTEST" />
+            <option value="$PROJECT_DIR$/SERVICETEST" />
+            <option value="$PROJECT_DIR$/SHAREDPREFFERENCE" />
+            <option value="$PROJECT_DIR$/WeChat Phone Book" />
+            <option value="$PROJECT_DIR$/XMLGAME" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

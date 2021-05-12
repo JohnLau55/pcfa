@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ADVERTICE/ADVERTICE.iml" filepath="$PROJECT_DIR$/ADVERTICE/ADVERTICE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BROADCAST/BROADCAST.iml" filepath="$PROJECT_DIR$/BROADCAST/BROADCAST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BROADCASTRECEICER/BROADCASTRECEICER.iml" filepath="$PROJECT_DIR$/BROADCASTRECEICER/BROADCASTRECEICER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Database Dictionary/Database Dictionary.iml" filepath="$PROJECT_DIR$/Database Dictionary/Database Dictionary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FRAGMENTTEST/FRAGMENTTEST.iml" filepath="$PROJECT_DIR$/FRAGMENTTEST/FRAGMENTTEST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication2.iml" filepath="$PROJECT_DIR$/MyApplication2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NOTIFYTEST/NOTIFYTEST.iml" filepath="$PROJECT_DIR$/NOTIFYTEST/NOTIFYTEST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PROGRESSTEST/PROGRESSTEST.iml" filepath="$PROJECT_DIR$/PROGRESSTEST/PROGRESSTEST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RANDOWNUMBER/RANDOWNUMBER.iml" filepath="$PROJECT_DIR$/RANDOWNUMBER/RANDOWNUMBER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SEARCHAVAR/SEARCHAVAR.iml" filepath="$PROJECT_DIR$/SEARCHAVAR/SEARCHAVAR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SENSORTEST/SENSORTEST.iml" filepath="$PROJECT_DIR$/SENSORTEST/SENSORTEST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SERVICETEST/SERVICETEST.iml" filepath="$PROJECT_DIR$/SERVICETEST/SERVICETEST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SHAREDPREFFERENCE/SHAREDPREFFERENCE.iml" filepath="$PROJECT_DIR$/SHAREDPREFFERENCE/SHAREDPREFFERENCE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeChat Phone Book/WeChat Phone Book.iml" filepath="$PROJECT_DIR$/WeChat Phone Book/WeChat Phone Book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XMLGAME/XMLGAME.iml" filepath="$PROJECT_DIR$/XMLGAME/XMLGAME.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
