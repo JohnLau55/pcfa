@@ -38,8 +38,9 @@ public class MainActivity extends Activity {
 
 
         return sb.toString(); //返回查询结果
+    }
 
-
-
+    public void test(){
+        System.out.println("test");
     }
 }
