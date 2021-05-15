@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
 
         MenuInflater menuInflater = new MenuInflater(this);
         menuInflater.inflate(R.menu.menu,menu);
+        System.out.println("can be delete");
 
         return super.onCreateOptionsMenu(menu);
     }
