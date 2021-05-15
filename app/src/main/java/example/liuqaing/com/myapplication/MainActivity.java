@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
 
         }
         Toast.makeText(this,item.getTitle(),Toast.LENGTH_SHORT).show();
-
+        System.out.println("can be delete6");
         return super.onOptionsItemSelected(item);
     }
 }
