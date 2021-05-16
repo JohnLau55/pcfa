@@ -19,7 +19,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         TextView tv = (TextView) findViewById(R.id.result); //获得布局文件中的TextView组件
         tv.setText(getQueryData()); //为TextView设置数据
-        System.out.println("remote origin");
+        System.out.println("remote origin again");
         final Resources resources = getResources();
     }
     //创建getQueryData()方法，实现获取通讯录信息
