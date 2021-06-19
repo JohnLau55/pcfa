@@ -18,6 +18,8 @@
       <module fileurl="file://$PROJECT_DIR$/WeChat Phone Book/WeChat Phone Book.iml" filepath="$PROJECT_DIR$/WeChat Phone Book/WeChat Phone Book.iml" />
       <module fileurl="file://$PROJECT_DIR$/XMLGAME/XMLGAME.iml" filepath="$PROJECT_DIR$/XMLGAME/XMLGAME.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layoutinflatertest/layoutinflatertest.iml" filepath="$PROJECT_DIR$/layoutinflatertest/layoutinflatertest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/windowmanagertest/windowmanagertest.iml" filepath="$PROJECT_DIR$/windowmanagertest/windowmanagertest.iml" />
     </modules>
   </component>
 </project>

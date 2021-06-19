@@ -23,6 +23,8 @@
             <option value="$PROJECT_DIR$/WeChat Phone Book" />
             <option value="$PROJECT_DIR$/XMLGAME" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/layoutinflatertest" />
+            <option value="$PROJECT_DIR$/windowmanagertest" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
